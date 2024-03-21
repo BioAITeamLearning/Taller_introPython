@@ -1,0 +1,6 @@
+jupyter-book
+scikit-learn
+pandas
+plotly
+jupyter
+ghp-import
