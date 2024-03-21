@@ -61,6 +61,11 @@ title: Bienvenida al taller
 
 ---
 
+<div class="admonition tip" style="background: lightgreen; padding: 10px">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS00crOTjQAcbpzYspVdfmtYygykzMjvalPlnRzBUj7hSAPP6v6V214fRh2VBxplfr27WqBVFIHmtmF/embed?start=true&loop=true&delayms=3000" frameborder="1" width="750" height="470" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+
 <img src="_static/post_taller.jpeg" alt="post_redes_taller" class="center">
 
 ---
