@@ -40,11 +40,9 @@ title: Bienvenida al taller
 
 **Ph. D. Reinel Tabares Soto**
 
-* Ingeniero Electrónico -  Universidad Nacional de Colombia
-* Ingeniero de Sistemas - Universidad de Caldas
-* Magister en Automatización Industrial - Universidad Nacional de Colombia
-* Especialista en Deep Learning - DeepLearning.AI
-* Doctor en Ingeniería - Universidad Autónoma de Manizales
+* <strong>Director Alterno Proyecto Algoritmos Éticos - Universidad Adolfo Ibáñez</strong>
+* <strong>Profesor en Machine Learning, Diplomado en Ciencia de Datos para Políticas Públicas, Escuela de Gobierno Universidad Adolfo Ibáñez</strong>
+
 
 % The SVG rendering breaks latex builds for the GitHub badge, so only include in HTML
 
@@ -58,6 +56,14 @@ title: Bienvenida al taller
 :::
 
 ::::
+
+---
+
+* Ingeniero Electrónico -  Universidad Nacional de Colombia
+* Ingeniero de Sistemas - Universidad de Caldas
+* Magister en Automatización Industrial - Universidad Nacional de Colombia
+* Especialista en Deep Learning - DeepLearning.AI
+* Doctor en Ingeniería - Universidad Autónoma de Manizales
 
 ---
 
